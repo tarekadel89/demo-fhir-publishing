@@ -12,3 +12,5 @@ Description: "An example of a patient with a license to krill."
 * name
   * given[0] = "James"
   * family = "Pond"
+* gender = #male
+* birthDate = "1965-11-11"
